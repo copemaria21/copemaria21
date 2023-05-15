@@ -2,7 +2,7 @@
 
 Meu nome é Maria Clara
 
-- Estou estudando programação no Alura
+- Estou estudando programação no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para o compartilhamento de meus projetos
 
